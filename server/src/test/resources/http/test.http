@@ -1,0 +1,2 @@
+### 連線確認
+GET  http://localhost:8080/app HTTP/1.1
